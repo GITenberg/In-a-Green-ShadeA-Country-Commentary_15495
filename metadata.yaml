@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1864
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15495#In-a-Green-ShadeA-Country-Commentary
 gutenberg_issued: '2005-03-29'
 gutenberg_type: Text
 identifiers:
